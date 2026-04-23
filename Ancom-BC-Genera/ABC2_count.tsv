@@ -1,0 +1,19 @@
+	Contrast	sType	Species	Sig	Burn	Control
+0	Burn vs Control (ref)	BS	C. album	14.0	6.0	-8.0
+1	Burn vs Control (ref)	BS	C. canadensis	5.0	0.0	-5.0
+2	Burn vs Control (ref)	BS	C. epigeios	4.0	3.0	-1.0
+3	Burn vs Control (ref)	BS	L. serriola	14.0	10.0	-4.0
+4	Burn vs Control (ref)	RhS	C. album	11.0	3.0	-8.0
+5	Burn vs Control (ref)	RhS	C. canadensis	5.0	4.0	-1.0
+6	Burn vs Control (ref)	RhS	C. epigeios	7.0	6.0	-1.0
+7	Burn vs Control (ref)	RhS	L. serriola	14.0	10.0	-4.0
+8	Burn vs Control (ref)	Rt	C. album	4.0	1.0	-3.0
+9	Burn vs Control (ref)	Rt	C. canadensis	3.0	2.0	-1.0
+10	Burn vs Control (ref)	Rt	C. epigeios	7.0	7.0	0.0
+11	Burn vs Control (ref)	Rt	C. supina	1.0	1.0	0.0
+12	Burn vs Control (ref)	Rt	L. serriola	10.0	3.0	-7.0
+13	Burned vs Control (ref)	Pool	C. album	18.0	7.0	-11.0
+14	Burned vs Control (ref)	Pool	C. canadensis	12.0	6.0	-6.0
+15	Burned vs Control (ref)	Pool	C. epigeios	11.0	10.0	-1.0
+16	Burned vs Control (ref)	Pool	C. supina	1.0	1.0	0.0
+17	Burned vs Control (ref)	Pool	L. serriola	26.0	14.0	-12.0
